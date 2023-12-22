@@ -25,7 +25,7 @@ Overall, Plats Quest appears to be a platform designed to foster engagement and 
 
 ### Links
 - Demo Website: https://cws-hackathon.plats.quest/
-- Demo Video: https://www.youtube.com/watch?v=svOGLnNtOIY
+- Demo Video: https://www.youtube.com/watch?v=UdwmOCOJ2SA
 - Slides: https://www.canva.com/design/DAF3grbfRAw/lDWAto7weMNOu6HUmcyMGg/edit
 
 ## Plan to do during hackathon
